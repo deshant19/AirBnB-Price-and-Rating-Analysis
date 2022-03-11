@@ -27,16 +27,15 @@ potential users of AirBnB.
 
 The report is structured around answering 3 primary questions and their relevant sub-questions:
 1. Do ”super-hosts” have substantially higher ratings on average compared to non-superhosts?
-2. What are the top 10 most expensive states in the US?
-
-(a) What are the most expensive neighborhoods in each of the top 10 expensive states?
-(b) What is the average price for different room types in the neighborhoods?
+2. What are the top 10 most expensive states in the US?</br>
+(a) What are the most expensive neighborhoods in each of the top 10 expensive states?</br>
+(b) What is the average price for different room types in the neighborhoods?</br>
 
 3. Predictive Analytics: How well can the provided independent variables predict the price
-of a listing?
+of a listing?</br>
 
-(a) Does additive model, interaction term model or transformed model perform better?
-(b) Are all key assumptions for linear regression met?
+(a) Does additive model, interaction term model or transformed model perform better?</br>
+(b) Are all key assumptions for linear regression met?</br>
 
 As previously mentioned, the objective of the report is to provide useful information surrounding
 the prices and ratings of the listings in the US. The analysis of the first question provides insights
