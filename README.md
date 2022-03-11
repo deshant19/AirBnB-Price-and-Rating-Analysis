@@ -33,7 +33,6 @@ The report is structured around answering 3 primary questions and their relevant
 
 3. Predictive Analytics: How well can the provided independent variables predict the price
 of a listing?</br>
-
 (a) Does additive model, interaction term model or transformed model perform better?</br>
 (b) Are all key assumptions for linear regression met?</br>
 
